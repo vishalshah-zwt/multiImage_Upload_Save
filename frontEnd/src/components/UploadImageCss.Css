@@ -1,0 +1,8 @@
+.MasterContainer{
+    border: 1px solid black;
+    height: 50px;
+    width: 60px;
+}
+.MasterContainer > img{
+    height: \5px;
+}
