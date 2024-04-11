@@ -32,6 +32,7 @@ function UploadImage() {
         .then((response) => {
                 console.log(response.data, "&&&&&&&&&&")
         })
+        
     }
 
 
